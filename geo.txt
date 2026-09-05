@@ -4,6 +4,7 @@
 SAFETY_CHECK = true
 KEEP_A
 KEEP_B
+VALUE = "from-the-pull-request"
 KEEP_D
 KEEP_E
 // tail
